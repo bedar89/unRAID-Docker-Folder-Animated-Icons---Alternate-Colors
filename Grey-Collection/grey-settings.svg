@@ -53,7 +53,7 @@
   <style
      id="style2"><![CDATA[#elfg01kjal71{pointer-events: all} #elfg01kjal71:hover * {animation-play-state: running !important}#elfg01kjal76_tr {animation: elfg01kjal76_tr__tr 3000ms linear infinite normal forwards}@keyframes elfg01kjal76_tr__tr { 0% {transform: translate(299.001880px,673.181962px) rotate(0deg)} 100% {transform: translate(299.001880px,673.181962px) rotate(360deg)} }]]></style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{fill:#303030;}
 	.st1{display:none;}
 	.st2{display:inline;}
 	.st3{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}

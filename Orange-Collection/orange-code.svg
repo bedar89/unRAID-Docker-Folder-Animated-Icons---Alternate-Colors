@@ -3,7 +3,7 @@
         <![CDATA[#e7c3754fjifg1{pointer-events: all} #e7c3754fjifg1:hover * {animation-play-state: running !important}#e7c3754fjifg6 {animation: e7c3754fjifg6_f_o 2000ms linear infinite normal forwards}@keyframes e7c3754fjifg6_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 15% {fill-opacity: 0;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 85% {fill-opacity: 1} 100% {fill-opacity: 1} }#e7c3754fjifg7 {animation: e7c3754fjifg7_f_o 2000ms linear infinite normal forwards}@keyframes e7c3754fjifg7_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 25% {fill-opacity: 0;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 75% {fill-opacity: 1} 100% {fill-opacity: 1} }#e7c3754fjifg8 {animation: e7c3754fjifg8_f_o 2000ms linear infinite normal forwards}@keyframes e7c3754fjifg8_f_o { 0% {fill-opacity: 1;animation-timing-function: step-end} 35% {fill-opacity: 0;animation-timing-function: step-end} 50% {fill-opacity: 0;animation-timing-function: step-end} 65% {fill-opacity: 1} 100% {fill-opacity: 1} }]]>
     </style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{fill:#303030;}
 	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
 	.st2{fill:#DDDDDD;}
 	.st3{fill:#01507B;}
@@ -24,7 +24,7 @@
 	C2.6,480.45,2.6,288.29,2.6,96.13c0-44.09,33.26-84.39,76.66-92.63c6.42-1.22,13.05-1.92,19.58-1.92
 	C290.68,1.48,482.52,1.5,674.37,1.5c44.09,0,84.44,33.3,92.63,76.66c1.21,6.42,1.91,13.05,1.92,19.58
 	C769.03,193.42,769,289.1,769,384.78z"/>
-   
+
     <g id="e7c3754fjifg4" transform="matrix(4 0 0 4 -808.46427917000005 -2293.22628782500033)">
         <g id="e7c3754fjifg5">
             <path

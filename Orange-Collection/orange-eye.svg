@@ -3,7 +3,7 @@
         <![CDATA[#epw0jhjv2c31{pointer-events: all} #epw0jhjv2c31:hover * {animation-play-state: running !important}#epw0jhjv2c35 {animation: epw0jhjv2c35_c_o 6000ms linear infinite normal forwards}@keyframes epw0jhjv2c35_c_o { 0% {opacity: 1} 16.666667% {opacity: 1;animation-timing-function: step-end} 20% {opacity: 0;animation-timing-function: step-end} 23.333333% {opacity: 1} 100% {opacity: 1} }#epw0jhjv2c39 {animation: epw0jhjv2c39_f_o 6000ms linear infinite normal forwards}@keyframes epw0jhjv2c39_f_o { 0% {fill-opacity: 0} 16.666667% {fill-opacity: 0;animation-timing-function: step-end} 20% {fill-opacity: 1;animation-timing-function: step-end} 23.333333% {fill-opacity: 0} 100% {fill-opacity: 0} }]]>
     </style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{fill:#303030;}
 	.st1{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
 	.st2{fill:#DDDDDD;}
 	.st3{fill:#01507B;}

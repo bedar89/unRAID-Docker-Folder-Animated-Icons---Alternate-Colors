@@ -3,7 +3,7 @@
         <![CDATA[#ef20ojojlv51{pointer-events: all} #ef20ojojlv51:hover * {animation-play-state: running !important}#ef20ojojlv54_tr {animation: ef20ojojlv54_tr__tr 11500ms linear infinite normal forwards}@keyframes ef20ojojlv54_tr__tr { 0% {transform: translate(381.556015px,384.486542px) rotate(0deg)} 100% {transform: translate(381.556015px,384.486542px) rotate(-360deg)} }]]>
     </style>
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{fill:#303030;}
 	.st1{display:none;}
 	.st2{display:inline;}
 	.st3{fill:#FFFFFF;stroke:#01507B;stroke-width:20;stroke-miterlimit:16;}
